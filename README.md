@@ -12,8 +12,8 @@ O APP possui duas página
 O APP solicita um ID e realiza a consulta do mesmo em uma API Mock e mostra o retorno.
 
 ## Instrutores
-[Yago Gehres](https://github.com/gehres)
-[Gabriel Vargas](https://github.com/GLuanVargas)
+* [Yago Gehres](https://github.com/gehres)
+* [Gabriel Vargas](https://github.com/GLuanVargas)
 
 ---
 
